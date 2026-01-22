@@ -2,10 +2,10 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "ZHIELDER",
     "description": "",
-    "home_page_url": "https://zhielder.github.io/gh-pages",
-    "feed_url": "https://zhielder.github.io/gh-pages/feed.json",
+    "home_page_url": "https://zhielder.com",
+    "feed_url": "https://zhielder.com/feed.json",
     "user_comment": "",
-    "icon": "https://zhielder.github.io/gh-pages/media/website/logo_final2_gray___.bmp",
+    "icon": "https://zhielder.com/media/website/logo_final2_gray___.bmp",
     "author": {
         "name": "Anonymous"
     },
